@@ -2,7 +2,7 @@
 
 **Data • Analytics • Technology**
 
-I'm curious about how **data, AI, and modern technology** can help solve real-world problems.
+I'm a Cloud Developer Advocate and .NET developer curious about how **data, AI, and modern technology** can help solve real-world problems.
 
 I enjoy learning by building, experimenting with new ideas, and exploring how technology can move from:
 
@@ -22,9 +22,6 @@ I enjoy learning by building, experimenting with new ideas, and exploring how te
 
 > **Build. Learn. Share. Repeat.**
 
-## :fire: My Stats : 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dikodev&theme=tokyonight&background=000000)](https://git.io/streak-stats)
-
 <div align="center">
   <b>Follow the journey</b><br>
   <sub>Find me around the web and say hello.</sub>
@@ -33,3 +30,6 @@ I enjoy learning by building, experimenting with new ideas, and exploring how te
   &nbsp;→&nbsp;
   <a href="https://www.linkedin.com/in/someleze-diko-56349a168/"> <img src="https://img.shields.io/badge/LinkedIn-Someleze%20Diko-0078D4?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
 </div>
+
+## :fire: My Stats : 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dikodev&theme=tokyonight&background=000000)](https://git.io/streak-stats)
