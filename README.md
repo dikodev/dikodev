@@ -26,7 +26,7 @@ I enjoy learning by building, experimenting with new ideas, and exploring how te
   <b>Follow the journey</b><br>
   <sub>Find me around the web and say hello.</sub>
   <br><br>
-  <a href="https://twitter.com/DikoSomeleze">Twitter</a>
+  <a href="https://twitter.com/DikoSomeleze"><img src="https://img.shields.io/twitter/follow/DikoSomeleze?style=flat-square&logo=x&label=@DikoSomeleze" alt="Twitter"/></a>
   &nbsp;→&nbsp;
-  <a href="https://www.linkedin.com/in/someleze-diko-56349a168/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/someleze-diko-56349a168/"> <img src="https://img.shields.io/badge/LinkedIn-Someleze%20Diko-0078D4?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
 </div>
