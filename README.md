@@ -22,6 +22,9 @@ I enjoy learning by building, experimenting with new ideas, and exploring how te
 
 > **Build. Learn. Share. Repeat.**
 
+## :fire: My Stats : 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dikodev&theme=tokyonight&background=000000)](https://git.io/streak-stats)
+
 <div align="center">
   <b>Follow the journey</b><br>
   <sub>Find me around the web and say hello.</sub>
