@@ -22,4 +22,11 @@ I enjoy learning by building, experimenting with new ideas, and exploring how te
 
 > **Build. Learn. Share. Repeat.**
 
-[Twitter](https://twitter.com/DikoSomeleze) · [LinkedIn](https://www.linkedin.com/in/someleze-diko-56349a168/)
+<div align="center">
+  <b>Follow the journey</b><br>
+  <sub>Find me around the web and say hello.</sub>
+  <br><br>
+  <a href="https://twitter.com/DikoSomeleze">Twitter</a>
+  &nbsp;→&nbsp;
+  <a href="https://www.linkedin.com/in/someleze-diko-56349a168/">LinkedIn</a>
+</div>
